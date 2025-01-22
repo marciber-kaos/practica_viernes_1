@@ -1,4 +1,5 @@
 *.txt
+*.py
 /pruebas/*
 .Ds_Store
 /node_modules/ 
